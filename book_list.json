@@ -1,5 +1,6 @@
 [
     {
+      "file": "B0001",
       "title": "ဇေယာရသ် အီစာလေစဝါးဗ်နှင့် ဒိုအာများ",
       "coverImage": "https://raw.githubusercontent.com/mtapplication/islamic_app/refs/heads/main/book_cover/B0001.jpg",
       "bookLink": "https://raw.githubusercontent.com/mtapplication/islamic_app/main/book/B0001.pdf",
@@ -7,6 +8,7 @@
       "size": "2.56 MB"
     },
     {
+      "file": "B0002",
       "title": "အစ္စလာမ့်ရှုထောင့်ဂျင်န်ရှိုက်သွာန်လောက",
       "coverImage": "https://raw.githubusercontent.com/mtapplication/islamic_app/refs/heads/main/book_cover/B0002.jpg",
       "bookLink": "https://raw.githubusercontent.com/mtapplication/islamic_app/main/book/B0002.pdf",
@@ -14,6 +16,7 @@
       "size": "13.5 MB"
     },
     {
+      "file": "B0003",
       "title": "အဘယ့်ကြောင့် ဂျမာအတ်ထွက်ရသနည်း",
       "coverImage": "https://raw.githubusercontent.com/mtapplication/islamic_app/refs/heads/main/book_cover/B0003.jpg",
       "bookLink": "https://raw.githubusercontent.com/mtapplication/islamic_app/main/book/B0003.pdf",
@@ -21,6 +24,7 @@
       "size": "1.38 MB"
     },
     {
+      "file": "B0004",
       "title": "မသေခင်ဘာလုပ်သင့်သလဲ",
       "coverImage": "https://raw.githubusercontent.com/mtapplication/islamic_app/refs/heads/main/book_cover/B0004.jpg",
       "bookLink": "https://raw.githubusercontent.com/mtapplication/islamic_app/main/book/B0004.pdf",
@@ -28,6 +32,7 @@
       "size": "2.50 MB"
     },
     {
+      "file": "B0005",
       "title": "နိကာဟ်ဆိုတာဘာလဲ",
       "coverImage": "https://raw.githubusercontent.com/mtapplication/islamic_app/refs/heads/main/book_cover/B0005.jpg",
       "bookLink": "https://raw.githubusercontent.com/mtapplication/islamic_app/main/book/B0005.pdf",
