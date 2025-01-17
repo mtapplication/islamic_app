@@ -2,7 +2,9 @@
     {
       "title": "ဇေယာရသ် အီစာလေစဝါးဗ်နှင့် ဒိုအာများ",
       "coverImage": "https://raw.githubusercontent.com/mtapplication/islamic_app/refs/heads/main/book_cover/B0001.jpg",
-      "bookLink": "https://raw.githubusercontent.com/mtapplication/islamic_app/main/book/B0001.pdf"
+      "bookLink": "https://raw.githubusercontent.com/mtapplication/islamic_app/main/book/B0001.pdf",
+      "pages": "68",
+      "size": "2.56 MB"
     }
-  ]
+]
   
